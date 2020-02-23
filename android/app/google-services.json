@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "35942381219",
+    "firebase_url": "https://heart-c45b9.firebaseio.com",
+    "project_id": "heart-c45b9",
+    "storage_bucket": "heart-c45b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35942381219:android:552ac78f3254c6e3d87116",
+        "android_client_info": {
+          "package_name": "io.foltz.heart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35942381219-4ufph8q1flj67pah2g9jdrh3gn8j8jnd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.foltz.heart",
+            "certificate_hash": "0502a243ab7ab33653c05b00dfdf4684ae300567"
+          }
+        },
+        {
+          "client_id": "35942381219-8thp8r71aqhai7m68vjos7gk9n3adqb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBof_iqli7Bm4L5_DTfGGADyf0BkT_wLNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35942381219-8thp8r71aqhai7m68vjos7gk9n3adqb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
